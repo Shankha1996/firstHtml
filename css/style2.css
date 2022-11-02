@@ -1,0 +1,50 @@
+body{
+  background-color: #A5EDFC;
+  margin: 0;
+  padding: 0;
+
+}
+#image1{
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  margin-top: 20px;
+
+}
+
+.my-name{
+  font-family: 'Orbitron', sans-serif;
+}
+
+.Descript-para{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e84a5f;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  text-shadow: 0 0 0.8em #e7305b, 0 0 0.6em #ff847c;
+}
+
+h2{
+  text-shadow: 0 0 0.8em #e7305b, 0 0 0.6em #ff847c;
+}
+
+.contact-details{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  text-shadow: 0 0 0.8em #e7305b, 0 0 0.6em #ff847c;
+  padding-bottom: 15px;
+  text-decoration: none;
+}
+
+.contact-details:hover{
+  color: #a0c1b8;
+}
